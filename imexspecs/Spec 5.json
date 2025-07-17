@@ -1,0 +1,246 @@
+﻿{
+  "Info": {
+    "Class": "clsDbImexSpec",
+    "Description": "Import/Export Specification from MSysIMEXSpecs"
+  },
+  "Items": {
+    "DateDelim": "/",
+    "DateFourDigitYear": false,
+    "DateLeadingZeros": false,
+    "DateOrder": 0,
+    "DecimalPoint": "",
+    "FieldSeparator": "\u0001",
+    "FileType": 0,
+    "SpecName": "",
+    "SpecType": 0,
+    "StartRow": 1,
+    "TextDelim": "\u0002",
+    "TimeDelim": ":",
+    "Columns": {
+      "CAAC_Definition": {
+        "Attributes": 0,
+        "DataType": 12,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 15263,
+        "Width": 8094
+      },
+      "CAAC_Part_Number": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 15200,
+        "Width": 63
+      },
+      "CAAC_Revision_Trace": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 15156,
+        "Width": 44
+      },
+      "CL-100_Additional_Items_to_be_checked": {
+        "Attributes": 0,
+        "DataType": 12,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 473,
+        "Width": 1302
+      },
+      "CL-100_Applicability": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 195,
+        "Width": 22
+      },
+      "CL-100_Definition": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 15,
+        "Width": 117
+      },
+      "CL-100_Revision_Date": {
+        "Attributes": 0,
+        "DataType": 8,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 151,
+        "Width": 21
+      },
+      "CL-100_Revision_No": {
+        "Attributes": 0,
+        "DataType": 7,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 132,
+        "Width": 19
+      },
+      "CL-100_Revision_Reason": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 172,
+        "Width": 23
+      },
+      "EASA_Definition": {
+        "Attributes": 0,
+        "DataType": 12,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 1862,
+        "Width": 3033
+      },
+      "EASA_Part_Number": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 1804,
+        "Width": 58
+      },
+      "EASA_Revision_Trace": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 1775,
+        "Width": 29
+      },
+      "FAA_Definition": {
+        "Attributes": 0,
+        "DataType": 12,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 12796,
+        "Width": 2360
+      },
+      "FAA_Part_Number": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 12704,
+        "Width": 92
+      },
+      "FAA_Revision_Trace": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 12448,
+        "Width": 256
+      },
+      "Field28": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 30868,
+        "Width": 1
+      },
+      "Guidance_Study": {
+        "Attributes": 0,
+        "DataType": 12,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 217,
+        "Width": 256
+      },
+      "ID": {
+        "Attributes": 0,
+        "DataType": 7,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 1,
+        "Width": 3
+      },
+      "OTAR_Definition": {
+        "Attributes": 0,
+        "DataType": 12,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 5103,
+        "Width": 7345
+      },
+      "OTAR_Part_Number": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 5072,
+        "Width": 31
+      },
+      "OTAR_Revision_Trace": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 4895,
+        "Width": 177
+      },
+      "SHT_Definition": {
+        "Attributes": 0,
+        "DataType": 12,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 26429,
+        "Width": 4439
+      },
+      "SHT_Part_Number": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 26360,
+        "Width": 69
+      },
+      "SHT_Revision_Trace": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 26318,
+        "Width": 42
+      },
+      "Status": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 4,
+        "Width": 11
+      },
+      "UK_CAA_Definition": {
+        "Attributes": 0,
+        "DataType": 12,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 23473,
+        "Width": 2845
+      },
+      "UK_CAA_Part_Number": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 23415,
+        "Width": 58
+      },
+      "UK_CAA_Revision_Trace": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 23357,
+        "Width": 58
+      }
+    }
+  }
+}

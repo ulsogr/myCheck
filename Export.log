@@ -1,0 +1,371 @@
+﻿-------------------------------------
+Beginning Export of Source Files
+myCheck__FE _5.1 - last.accdb
+VCS Version 4.1.2
+Full Path: C:\Users\ulas.oger\Desktop\Checklist\myCheck__FE _5.1 - last.accdb
+Export Folder: C:\Users\ulas.oger\Desktop\Checklist\myCheck__FE _5.1 - last.accdb.src\
+Performing Full Export
+7/17/2025 2:28:22 PM
+-------------------------------------
+Scanning source files...
+No db connections found in this database.
+No vbe forms found in this database.
+No proj properties found in this database.
+No saved specs found in this database.
+No commandbars found in this database.
+No macros found in this database.
+No table data found in this database.
+No table data macros found in this database.
+No relations found in this database.
+No hidden attributes found in this database.
+-------------------------------------
+Exporting project...          
+  myCheck__FE _5.1 - last.accdb
+[1]
+-------------------------------------
+Exporting vb project...       
+  MyCheckList
+[1]
+-------------------------------------
+Exporting vbe references...   
+  DAO
+[2]
+-------------------------------------
+Exporting modules...          
+  mod_EASA
+  mod_UKCAA
+  mod_FAA
+  mod_Related
+  mod_SHGM
+  mod_CAAC
+  Module1
+  mod_OTAR
+  Effective
+  rule_type
+[10]
+-------------------------------------
+Exporting shared images...    
+  Command374
+[1]
+-------------------------------------
+Exporting themes...           
+  1_Office Theme
+[1]
+-------------------------------------
+Exporting db properties...    
+  Database Properties (DAO)
+[53]
+-------------------------------------
+Exporting imex specs...       
+  Spec 5
+[1]
+-------------------------------------
+Exporting tables...           
+  Audits
+  tbl_Applicability
+  tbl_Audit_Standards
+  tbl_AuditEntries
+  tbl_Auditors
+  tbl_AuditReports
+  tbl_CAAC
+  tbl_Checklists
+  tbl_CompletedRules
+  tbl_EASA
+  tbl_FAA
+  tbl_finding
+  tbl_Group
+  tbl_OMAN
+  tbl_OTAR
+  tbl_Party
+  tbl_Process
+  tbl_Regulations
+  tbl_SHGM
+  tbl_type_of_activity
+  tbl_UKCAA
+  tbl_UserRoles
+  tbl_Users
+[23]
+-------------------------------------
+Exporting queries...          
+  "EASA";"FAA";"OTAR";"UKCAA";"SHGM";"CAAC"
+    Sanitized in 0.002 seconds.
+  "EASA";"FAA";"OTAR";"UKCAA";"SHGM";"CAAC" (SQL)
+  frm_AuditPlan
+    Sanitized in 0.001 seconds.
+  frm_AuditPlan (SQL)
+  frm_Checklist_ReportFilter
+    Sanitized in 0.002 seconds.
+  frm_Checklist_ReportFilter (SQL)
+  frm_Perfomed
+    Sanitized in 0.003 seconds.
+  frm_Perfomed (SQL)
+  frm_RegulationEntry
+    Sanitized in 0.002 seconds.
+  frm_RegulationEntry (SQL)
+  frm_SelectAuditReport
+    Sanitized in 0.000 seconds.
+  frm_SelectAuditReport (SQL)
+  matrix
+    Sanitized in 0.002 seconds.
+  matrix (SQL)
+  qry_CompletedRules
+    Sanitized in 0.001 seconds.
+  qry_CompletedRules (SQL)
+  qry_Entries
+    Sanitized in 0.002 seconds.
+  qry_Entries (SQL)
+  qry_LastUserEntry
+    Sanitized in 0.001 seconds.
+  qry_LastUserEntry (SQL)
+  qry_Main
+    Sanitized in 0.015 seconds.
+  qry_Main (SQL)
+  Query1
+    Sanitized in 0.003 seconds.
+  Query1 (SQL)
+  Query2
+    Sanitized in 0.001 seconds.
+  Query2 (SQL)
+  Report1
+    Sanitized in 0.001 seconds.
+  Report1 (SQL)
+  rprt_Applicability_Name
+    Sanitized in 0.001 seconds.
+  rprt_Applicability_Name (SQL)
+  rprt_Audit_Rules_List
+    Sanitized in 0.004 seconds.
+  rprt_Audit_Rules_List (SQL)
+  rprt_AuditPlan
+    Sanitized in 0.002 seconds.
+  rprt_AuditPlan (SQL)
+  rprt_Perfomed_CAAC
+    Sanitized in 0.005 seconds.
+  rprt_Perfomed_CAAC (SQL)
+  rprt_Perfomed_EASA
+    Sanitized in 0.007 seconds.
+  rprt_Perfomed_EASA (SQL)
+  rprt_Perfomed_FAA
+    Sanitized in 0.009 seconds.
+  rprt_Perfomed_FAA (SQL)
+  rprt_Perfomed_OMAN_Cover
+    Sanitized in 0.010 seconds.
+  rprt_Perfomed_OMAN_Cover (SQL)
+  rprt_Perfomed_OTAR
+    Sanitized in 0.010 seconds.
+  rprt_Perfomed_OTAR (SQL)
+  rpt_ChecklistDetails
+    Sanitized in 0.000 seconds.
+  rpt_ChecklistDetails (SQL)
+  sub_CompletedEntries
+    Sanitized in 0.004 seconds.
+  sub_CompletedEntries (SQL)
+  test
+    Sanitized in 0.002 seconds.
+  test (SQL)
+  update
+    Sanitized in 0.000 seconds.
+  update (SQL)
+  Yes
+    Sanitized in 0.000 seconds.
+  Yes (SQL)
+[27]
+-------------------------------------
+Exporting forms...            
+  tbl_Regulations subform
+    Sanitized in 0.001 seconds.
+  tbl_CompletedRules subform
+    Sanitized in 0.005 seconds.
+  tbl_Users subform
+    Sanitized in 0.004 seconds.
+  tbl_Auditors subform
+    Sanitized in 0.002 seconds.
+  qry_Entries_subform
+    Sanitized in 0.034 seconds.
+  frm_SelectAuditReport
+    Sanitized in 0.004 seconds.
+  frm_MainMenu
+    Sanitized in 0.021 seconds.
+  frm_Perfomed
+    Sanitized in 0.071 seconds.
+  frm_Checklists
+    Sanitized in 0.014 seconds.
+  frm_Login
+    Sanitized in 0.005 seconds.
+  frm_Checklist_Plan
+    Sanitized in 0.078 seconds.
+  frm_RegulationEntry
+    Sanitized in 0.080 seconds.
+  frm_ReportFilter
+    Sanitized in 0.008 seconds.
+  frm_AuditPlan
+    Sanitized in 0.035 seconds.
+  frm_Checklist_ReportFilter
+    Sanitized in 0.011 seconds.
+  frm_Admin
+    Sanitized in 0.007 seconds.
+  frm_AdminApproval
+    Sanitized in 0.011 seconds.
+  sub_CompletedEntries
+    Sanitized in 0.007 seconds.
+  frm_AuditPlan_ReportFilter
+    Sanitized in 0.010 seconds.
+  frm_Checklistgo_ReportFilter
+    Sanitized in 0.008 seconds.
+  frm_Findings_ReportFilter
+    Sanitized in 0.009 seconds.
+  frm_RulesManager
+    Sanitized in 0.012 seconds.
+  frm_EditRule
+    Sanitized in 0.011 seconds.
+  frm_SHGM_Rules
+    Sanitized in 0.013 seconds.
+  frm_CAAC_Rules
+    Sanitized in 0.012 seconds.
+  frm_UKCAA_Rules
+    Sanitized in 0.012 seconds.
+  frm_FAA_Rules
+    Sanitized in 0.013 seconds.
+  frm_OTAR_Rules
+    Sanitized in 0.015 seconds.
+  frm_EASA_Rules
+    Sanitized in 0.035 seconds.
+[29]
+-------------------------------------
+Exporting reports...          
+  rprt_Perfomed_EASA
+    Sanitized in 0.032 seconds.
+  rprt_AuditPlan_EASA
+    Sanitized in 0.020 seconds.
+  rpt_ChecklistDetails
+    Sanitized in 0.006 seconds.
+  R_Audits_01
+    Sanitized in 0.065 seconds.
+  rprt_EASA_Rules_List
+    Sanitized in 0.020 seconds.
+  rprt_OTAR_Rules_List
+    Sanitized in 0.014 seconds.
+  rprt_SHGM_Rules_List
+    Sanitized in 0.018 seconds.
+  rprt_CAAC_Rules_List
+    Sanitized in 0.017 seconds.
+  rprt_FAA_Rules_List
+    Sanitized in 0.020 seconds.
+  rprt_UKCAA_Rules_List
+    Sanitized in 0.018 seconds.
+  rprt_Perfomed_OTAR_Cover
+    Sanitized in 0.028 seconds.
+  rprt_Perfomed_UKCAA_Cover
+    Sanitized in 0.038 seconds.
+  rprt_Perfomed_FAA_Cover
+    Sanitized in 0.021 seconds.
+  rprt_Perfomed_OTAR
+    Sanitized in 0.031 seconds.
+  rprt_Audit_Plan_List
+    Sanitized in 0.046 seconds.
+  rprt_Perfomed_OMAN_Cover
+    Sanitized in 0.021 seconds.
+  rprt_Perfomed_EASA_Cover
+    Sanitized in 0.031 seconds.
+  rprt_Perfomed_CAAC_Cover
+    Sanitized in 0.023 seconds.
+  rprt_Perfomed_SHGM_Cover
+    Sanitized in 0.036 seconds.
+  rprt_Assigned_AuditPlan
+    Sanitized in 0.017 seconds.
+  rprt_AuditPlan
+    Sanitized in 0.032 seconds.
+  rprt_Perfomed_FAA
+    Sanitized in 0.041 seconds.
+  rprt_Perfomed_SHGM
+    Sanitized in 0.043 seconds.
+  rprt_Perfomed_CAAC
+    Sanitized in 0.023 seconds.
+  rprt_Perfomed_UKCAAsil
+    Sanitized in 0.024 seconds.
+  rprt_Perfomed_UKCAA
+    Sanitized in 0.020 seconds.
+  rprt_Checklist_to_go
+    Sanitized in 0.008 seconds.
+  rprt_Matrix
+    Sanitized in 0.009 seconds.
+[28]
+-------------------------------------
+Exporting doc properties...   
+  Database Documents
+[2]
+-------------------------------------
+Exporting nav pane groups...  
+  Groups
+[2]
+-------------------------------------
+Done. (52.03 seconds)
+
+--------------------------------------------------
+                PERFORMANCE REPORTS
+--------------------------------------------------
+Category                      Count     Seconds
+--------------------------------------------------
+Queries                       27        23.81
+Forms                         29        8.75
+Reports                       28        8.41
+Tables                        23        5.97
+Modules                       10        2.41
+Doc Properties                2         0.95
+Themes                        1         0.63
+DB Properties                 53        0.26
+Nav Pane Groups               2         0.08
+IMEX Specs                    1         0.08
+VBE References                2         0.06
+Project                       1         0.06
+DB Connections                0         0.06
+Shared Images                 1         0.04
+VB Project                    1         0.03
+CommandBars                   0         0.03
+Hidden Attributes             0         0.02
+Proj Properties               0         0.01
+Relations                     0         0.00
+Table Data Macros             0         0.00
+Table Data                    0         0.00
+VBE Forms                     0         0.00
+Saved Specs                   0         0.00
+Macros                        0         0.00
+--------------------------------------------------
+TOTALS:                       181       51.68
+--------------------------------------------------
+
+--------------------------------------------------
+Operations                    Count     Seconds
+--------------------------------------------------
+App.SaveAsText()              84        31.74
+Write File                    248       2.82
+Export VBE Module             10        1.90
+Sanitize File                 84        1.40
+Convert to JSON               3037      1.18
+Delete File                   95        1.06
+Scan DB Objects               1         0.84
+Export Theme                  1         0.58
+Read File                     94        0.40
+Increment Progress            252       0.37
+Read File Bytes               95        0.33
+Format SQL                    27        0.32
+modFileAccess.VerifyPath      334       0.24
+Read File DevMode             57        0.20
+Close Open Objects            1         0.16
+Console Updates               8         0.13
+Get File Property Hash        126       0.11
+Save Query SQL                27        0.05
+Get VBA Hash                  67        0.04
+Compute SHA256                377       0.04
+Check for linked table        23        0.03
+Get Modified Date             272       0.02
+Sanitize VBA Code             55        0.01
+Write Binary File             1         0.01
+Quick Count Files             1         0.00
+Quick Count Objects           1         0.00
+modFileAccess.GetUncPath      48        0.00
+Clear Files by Ext            6         0.00
+--------------------------------------------------
+Other Operations                        8.01
+--------------------------------------------------
+
+

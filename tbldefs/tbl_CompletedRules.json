@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "tbl_CompletedRules",
+    "Connect": "MS Access;PWD=Password;DATABASE=rel:MyCheck__be.accdb",
+    "SourceTableName": "tbl_CompletedRules",
+    "Attributes": 1073741824,
+    "PrimaryKey": "[ENTRYID]"
+  }
+}

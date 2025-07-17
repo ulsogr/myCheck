@@ -1,0 +1,17 @@
+﻿{
+  "Info": {
+    "Class": "clsDbVbeProject",
+    "Description": "VBE Project"
+  },
+  "Items": {
+    "Name": "MyCheckList",
+    "Description": "",
+    "FileName": "myCheck__FE _5.1 - last.accdb",
+    "HelpFile": "",
+    "HelpContextId": 0,
+    "ConditionalCompilationArguments": "",
+    "Mode": 0,
+    "Protection": 0,
+    "Type": 100
+  }
+}

@@ -1,0 +1,4 @@
+﻿SELECT
+  DISTINCT Query2.*
+FROM
+  Query2;

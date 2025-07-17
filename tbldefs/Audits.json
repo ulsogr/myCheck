@@ -1,0 +1,12 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "Audits",
+    "Connect": "MS Access;PWD=Password;DATABASE=rel:MyCheck__be.accdb",
+    "SourceTableName": "Audits",
+    "Attributes": 1073741824
+  }
+}

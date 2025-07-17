@@ -1,0 +1,869 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "2025-07-17T11:29:14.000Z",
+    "FullExportDate": "2025-07-17T11:29:14.000Z",
+    "OptionsHash": "e599266",
+    "LastMergedCommit": "",
+    "Components": {
+      "DB Connections": {
+        "db-connection.json": {
+        }
+      },
+      "DB Properties": {
+        "dbs-properties.json": {
+          "FileHash": "d321452",
+          "ExportDate": "2025-07-17T11:28:27.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "58aec88"
+        }
+      },
+      "Doc Properties": {
+        "documents.json": {
+          "FileHash": "e7c5edf",
+          "ExportDate": "2025-07-17T11:29:14.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "13dd99a"
+        }
+      },
+      "Forms": {
+        "frm_Admin.bas": {
+          "FileHash": "0de1121",
+          "OtherHash": "85d7129",
+          "ExportDate": "2025-07-17T11:29:02.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "8d5b79d"
+        },
+        "frm_AdminApproval.bas": {
+          "FileHash": "b323381",
+          "OtherHash": "66eb53a",
+          "ExportDate": "2025-07-17T11:29:02.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "17375fd"
+        },
+        "frm_AuditPlan.bas": {
+          "FileHash": "13c47fc",
+          "OtherHash": "e46b72f",
+          "ExportDate": "2025-07-17T11:29:01.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "c6e0a6e"
+        },
+        "frm_AuditPlan_ReportFilter.bas": {
+          "FileHash": "c5e2a5f",
+          "OtherHash": "ab7ff12",
+          "ExportDate": "2025-07-17T11:29:02.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "441f406"
+        },
+        "frm_CAAC_Rules.bas": {
+          "FileHash": "910d509",
+          "OtherHash": "aa7f11b",
+          "ExportDate": "2025-07-17T11:29:04.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "71795bd"
+        },
+        "frm_Checklist_Plan.bas": {
+          "FileHash": "d9586d1",
+          "OtherHash": "847b80d",
+          "ExportDate": "2025-07-17T11:29:01.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d4227e1"
+        },
+        "frm_Checklist_ReportFilter.bas": {
+          "FileHash": "77efdb2",
+          "OtherHash": "d904284",
+          "ExportDate": "2025-07-17T11:29:02.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "16b0998"
+        },
+        "frm_Checklistgo_ReportFilter.bas": {
+          "FileHash": "d2b96cb",
+          "OtherHash": "ee796c1",
+          "ExportDate": "2025-07-17T11:29:03.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "3266e04"
+        },
+        "frm_Checklists.bas": {
+          "FileHash": "6a515f9",
+          "OtherHash": "41f43fb",
+          "ExportDate": "2025-07-17T11:29:00.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "289150b"
+        },
+        "frm_EASA_Rules.bas": {
+          "FileHash": "4014fd3",
+          "OtherHash": "18b19de",
+          "ExportDate": "2025-07-17T11:29:05.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1fb7114"
+        },
+        "frm_EditRule.bas": {
+          "FileHash": "50ea57b",
+          "OtherHash": "22acd13",
+          "ExportDate": "2025-07-17T11:29:03.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "41ecf37"
+        },
+        "frm_FAA_Rules.bas": {
+          "FileHash": "15ab05e",
+          "OtherHash": "7416111",
+          "ExportDate": "2025-07-17T11:29:04.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "4a783f1"
+        },
+        "frm_Findings_ReportFilter.bas": {
+          "FileHash": "70dbf2a",
+          "OtherHash": "b8f5fd6",
+          "ExportDate": "2025-07-17T11:29:03.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "e7794cf"
+        },
+        "frm_Login.bas": {
+          "FileHash": "ae98c33",
+          "OtherHash": "e14a327",
+          "ExportDate": "2025-07-17T11:29:00.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "c4a5baf"
+        },
+        "frm_MainMenu.bas": {
+          "FileHash": "20ccc24",
+          "OtherHash": "599d6f7",
+          "ExportDate": "2025-07-17T11:29:00.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "b4878f7"
+        },
+        "frm_OTAR_Rules.bas": {
+          "FileHash": "0e40d78",
+          "OtherHash": "f6f3c81",
+          "ExportDate": "2025-07-17T11:29:04.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "a2c98c2"
+        },
+        "frm_Perfomed.bas": {
+          "FileHash": "8cc0448",
+          "OtherHash": "e3b0c44",
+          "ExportDate": "2025-07-17T11:29:00.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "671f02b"
+        },
+        "frm_RegulationEntry.bas": {
+          "FileHash": "5276653",
+          "OtherHash": "0d1f65d",
+          "ExportDate": "2025-07-17T11:29:01.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "ee98f27"
+        },
+        "frm_ReportFilter.bas": {
+          "FileHash": "7aa7a4f",
+          "OtherHash": "e0d8fdf",
+          "ExportDate": "2025-07-17T11:29:01.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "edf5437"
+        },
+        "frm_RulesManager.bas": {
+          "FileHash": "f9e9e1e",
+          "OtherHash": "e84eb00",
+          "ExportDate": "2025-07-17T11:29:03.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "347f346"
+        },
+        "frm_SelectAuditReport.bas": {
+          "FileHash": "59dc67c",
+          "OtherHash": "0ccd91f",
+          "ExportDate": "2025-07-17T11:28:58.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "51e9b25"
+        },
+        "frm_SHGM_Rules.bas": {
+          "FileHash": "059210a",
+          "OtherHash": "88847f0",
+          "ExportDate": "2025-07-17T11:29:04.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "332d538"
+        },
+        "frm_UKCAA_Rules.bas": {
+          "FileHash": "a82736f",
+          "OtherHash": "7d31836",
+          "ExportDate": "2025-07-17T11:29:04.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "0b47950"
+        },
+        "qry_Entries_subform.bas": {
+          "FileHash": "674bb72",
+          "OtherHash": "3b542e5",
+          "ExportDate": "2025-07-17T11:28:58.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "c3fd814"
+        },
+        "sub_CompletedEntries.bas": {
+          "FileHash": "f2f70a0",
+          "ExportDate": "2025-07-17T11:29:02.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "cc3f163"
+        },
+        "tbl_Auditors subform.bas": {
+          "FileHash": "fc0cdaf",
+          "ExportDate": "2025-07-17T11:28:58.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "387fce0"
+        },
+        "tbl_CompletedRules subform.bas": {
+          "FileHash": "0d8634c",
+          "ExportDate": "2025-07-17T11:28:58.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "720ff2f"
+        },
+        "tbl_Regulations subform.bas": {
+          "FileHash": "aefc162",
+          "ExportDate": "2025-07-17T11:28:58.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "9743342"
+        },
+        "tbl_Users subform.bas": {
+          "FileHash": "c225aed",
+          "ExportDate": "2025-07-17T11:28:58.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "48b3e89"
+        }
+      },
+      "Hidden Attributes": {
+        "hidden-attributes.json": {
+        }
+      },
+      "IMEX Specs": {
+        "Spec 5.json": {
+          "FileHash": "fc796ca",
+          "ExportDate": "2025-07-17T11:28:27.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "86549e7"
+        }
+      },
+      "Modules": {
+        "Effective.bas": {
+          "FileHash": "2a77aef",
+          "OtherHash": "855e89d",
+          "ExportDate": "2025-07-17T11:28:26.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "e6a526d"
+        },
+        "mod_CAAC.bas": {
+          "FileHash": "a81f925",
+          "OtherHash": "88c32f9",
+          "ExportDate": "2025-07-17T11:28:25.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "43afca7"
+        },
+        "mod_EASA.bas": {
+          "FileHash": "2b5a3f9",
+          "OtherHash": "4e504f9",
+          "ExportDate": "2025-07-17T11:28:24.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "9794049"
+        },
+        "mod_FAA.bas": {
+          "FileHash": "fa934d3",
+          "OtherHash": "8ec01ad",
+          "ExportDate": "2025-07-17T11:28:25.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "c42c250"
+        },
+        "mod_OTAR.bas": {
+          "FileHash": "31b1b35",
+          "OtherHash": "a58cdf0",
+          "ExportDate": "2025-07-17T11:28:25.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "f381d95"
+        },
+        "mod_Related.bas": {
+          "FileHash": "254e27f",
+          "OtherHash": "a1f3ff3",
+          "ExportDate": "2025-07-17T11:28:25.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "8044ba6"
+        },
+        "mod_SHGM.bas": {
+          "FileHash": "7a93ce0",
+          "OtherHash": "3c4948e",
+          "ExportDate": "2025-07-17T11:28:25.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "43afca7"
+        },
+        "mod_UKCAA.bas": {
+          "FileHash": "7ce54a4",
+          "OtherHash": "d8d2b49",
+          "ExportDate": "2025-07-17T11:28:24.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d634886"
+        },
+        "Module1.bas": {
+          "FileHash": "575cfbe",
+          "OtherHash": "57d98fe",
+          "ExportDate": "2025-07-17T11:28:25.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "e030dfb"
+        },
+        "rule_type.bas": {
+          "FileHash": "116e3fd",
+          "OtherHash": "8699bc0",
+          "ExportDate": "2025-07-17T11:28:26.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "64fc736"
+        }
+      },
+      "Nav Pane Groups": {
+        "nav-pane-groups.json": {
+          "FileHash": "3d7555c",
+          "ExportDate": "2025-07-17T11:29:14.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "a8ea293"
+        }
+      },
+      "Proj Properties": {
+        "proj-properties.json": {
+        }
+      },
+      "Project": {
+        "project.json": {
+          "FileHash": "9fe41ad",
+          "ExportDate": "2025-07-17T11:28:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "9fad597"
+        }
+      },
+      "Queries": {
+        "%22EASA%22;%22FAA%22;%22OTAR%22;%22UKCAA%22;%22SHGM%22;%22CAAC%22.bas": {
+          "FileHash": "90cdcaa",
+          "ExportDate": "2025-07-17T11:28:33.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "3ab9b9a"
+        },
+        "frm_AuditPlan.bas": {
+          "FileHash": "09259e2",
+          "ExportDate": "2025-07-17T11:28:34.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "50d85b4"
+        },
+        "frm_Checklist_ReportFilter.bas": {
+          "FileHash": "61e8451",
+          "ExportDate": "2025-07-17T11:28:35.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "cb085ef"
+        },
+        "frm_Perfomed.bas": {
+          "FileHash": "0eab510",
+          "ExportDate": "2025-07-17T11:28:36.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "cfc28a2"
+        },
+        "frm_RegulationEntry.bas": {
+          "FileHash": "64f71b8",
+          "ExportDate": "2025-07-17T11:28:37.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "b32de7e"
+        },
+        "frm_SelectAuditReport.bas": {
+          "FileHash": "f2b066d",
+          "ExportDate": "2025-07-17T11:28:37.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "473a163"
+        },
+        "matrix.bas": {
+          "FileHash": "21a9a79",
+          "ExportDate": "2025-07-17T11:28:38.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "9607579"
+        },
+        "qry_CompletedRules.bas": {
+          "FileHash": "9b592e5",
+          "ExportDate": "2025-07-17T11:28:39.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "2f10bcc"
+        },
+        "qry_Entries.bas": {
+          "FileHash": "ece8e1e",
+          "ExportDate": "2025-07-17T11:28:40.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "0211611"
+        },
+        "qry_LastUserEntry.bas": {
+          "FileHash": "175d2e2",
+          "ExportDate": "2025-07-17T11:28:41.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "3e911b6"
+        },
+        "qry_Main.bas": {
+          "FileHash": "4b25684",
+          "ExportDate": "2025-07-17T11:28:42.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "43a35b5"
+        },
+        "Query1.bas": {
+          "FileHash": "b06a1a5",
+          "ExportDate": "2025-07-17T11:28:43.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1f0f642"
+        },
+        "Query2.bas": {
+          "FileHash": "89c175f",
+          "ExportDate": "2025-07-17T11:28:44.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "8066249"
+        },
+        "Report1.bas": {
+          "FileHash": "ef7479c",
+          "ExportDate": "2025-07-17T11:28:45.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "70ea863"
+        },
+        "rprt_Applicability_Name.bas": {
+          "FileHash": "c41bc1d",
+          "ExportDate": "2025-07-17T11:28:46.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d17690c"
+        },
+        "rprt_Audit_Rules_List.bas": {
+          "FileHash": "890e9e0",
+          "ExportDate": "2025-07-17T11:28:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "b49acdd"
+        },
+        "rprt_AuditPlan.bas": {
+          "FileHash": "168fc29",
+          "ExportDate": "2025-07-17T11:28:47.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "034f5e1"
+        },
+        "rprt_Perfomed_CAAC.bas": {
+          "FileHash": "dbb26e1",
+          "ExportDate": "2025-07-17T11:28:48.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "db018c1"
+        },
+        "rprt_Perfomed_EASA.bas": {
+          "FileHash": "ddc2fb1",
+          "ExportDate": "2025-07-17T11:28:49.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d1217c9"
+        },
+        "rprt_Perfomed_FAA.bas": {
+          "FileHash": "9e4df69",
+          "ExportDate": "2025-07-17T11:28:50.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "3aec58d"
+        },
+        "rprt_Perfomed_OMAN_Cover.bas": {
+          "FileHash": "058cdc2",
+          "ExportDate": "2025-07-17T11:28:52.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d1287b9"
+        },
+        "rprt_Perfomed_OTAR.bas": {
+          "FileHash": "7a774ea",
+          "ExportDate": "2025-07-17T11:28:52.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "9363a4f"
+        },
+        "rpt_ChecklistDetails.bas": {
+          "FileHash": "309a7da",
+          "ExportDate": "2025-07-17T11:28:53.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "97fb34e"
+        },
+        "sub_CompletedEntries.bas": {
+          "FileHash": "64ed2ff",
+          "ExportDate": "2025-07-17T11:28:54.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "6d9f3eb"
+        },
+        "test.bas": {
+          "FileHash": "b167953",
+          "ExportDate": "2025-07-17T11:28:55.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "ff53983"
+        },
+        "update.bas": {
+          "FileHash": "5fa83ae",
+          "ExportDate": "2025-07-17T11:28:56.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "fcda50e"
+        },
+        "Yes.bas": {
+          "FileHash": "966859f",
+          "ExportDate": "2025-07-17T11:28:56.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "3498f65"
+        }
+      },
+      "Reports": {
+        "R_Audits_01.bas": {
+          "FileHash": "7b6f6bd",
+          "OtherHash": "bc23a7d",
+          "ExportDate": "2025-07-17T11:29:06.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "9896307"
+        },
+        "rprt_Assigned_AuditPlan.bas": {
+          "FileHash": "b237d4f",
+          "ExportDate": "2025-07-17T11:29:12.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "acc4957"
+        },
+        "rprt_Audit_Plan_List.bas": {
+          "FileHash": "56aafcf",
+          "ExportDate": "2025-07-17T11:29:11.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "da1e05f"
+        },
+        "rprt_AuditPlan.bas": {
+          "FileHash": "19b9a33",
+          "ExportDate": "2025-07-17T11:29:12.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "32b071b"
+        },
+        "rprt_AuditPlan_EASA.bas": {
+          "FileHash": "4e64343",
+          "ExportDate": "2025-07-17T11:29:06.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "92bda6e"
+        },
+        "rprt_CAAC_Rules_List.bas": {
+          "FileHash": "13e4b64",
+          "OtherHash": "dba5166",
+          "ExportDate": "2025-07-17T11:29:07.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "4f42430"
+        },
+        "rprt_Checklist_to_go.bas": {
+          "FileHash": "d689623",
+          "ExportDate": "2025-07-17T11:29:13.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "24c1f1d"
+        },
+        "rprt_EASA_Rules_List.bas": {
+          "FileHash": "702e92e",
+          "OtherHash": "dba5166",
+          "ExportDate": "2025-07-17T11:29:06.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "746b607"
+        },
+        "rprt_FAA_Rules_List.bas": {
+          "FileHash": "3a7a0a9",
+          "OtherHash": "dba5166",
+          "ExportDate": "2025-07-17T11:29:08.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "b7bac70"
+        },
+        "rprt_Matrix.bas": {
+          "FileHash": "37d1934",
+          "ExportDate": "2025-07-17T11:29:14.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "2036447"
+        },
+        "rprt_OTAR_Rules_List.bas": {
+          "FileHash": "ed2bba5",
+          "OtherHash": "dba5166",
+          "ExportDate": "2025-07-17T11:29:06.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "9d503db"
+        },
+        "rprt_Perfomed_CAAC.bas": {
+          "FileHash": "43abe70",
+          "OtherHash": "cd9ea87",
+          "ExportDate": "2025-07-17T11:29:13.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "2a39329"
+        },
+        "rprt_Perfomed_CAAC_Cover.bas": {
+          "FileHash": "b342a35",
+          "OtherHash": "2a48444",
+          "ExportDate": "2025-07-17T11:29:11.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "a488990"
+        },
+        "rprt_Perfomed_EASA.bas": {
+          "FileHash": "660f2a8",
+          "OtherHash": "cd9ea87",
+          "ExportDate": "2025-07-17T11:29:05.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "9bfa980"
+        },
+        "rprt_Perfomed_EASA_Cover.bas": {
+          "FileHash": "de6f79e",
+          "OtherHash": "2a48444",
+          "ExportDate": "2025-07-17T11:29:11.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "ee39bb9"
+        },
+        "rprt_Perfomed_FAA.bas": {
+          "FileHash": "19c457e",
+          "OtherHash": "22c2432",
+          "ExportDate": "2025-07-17T11:29:12.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "dcc1298"
+        },
+        "rprt_Perfomed_FAA_Cover.bas": {
+          "FileHash": "879d2a8",
+          "OtherHash": "2a48444",
+          "ExportDate": "2025-07-17T11:29:10.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "3f084e2"
+        },
+        "rprt_Perfomed_OMAN_Cover.bas": {
+          "FileHash": "63ee3f0",
+          "OtherHash": "2a48444",
+          "ExportDate": "2025-07-17T11:29:11.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "0427c64"
+        },
+        "rprt_Perfomed_OTAR.bas": {
+          "FileHash": "13cfa53",
+          "OtherHash": "cd9ea87",
+          "ExportDate": "2025-07-17T11:29:11.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "6c0e200"
+        },
+        "rprt_Perfomed_OTAR_Cover.bas": {
+          "FileHash": "c688ab4",
+          "OtherHash": "2a48444",
+          "ExportDate": "2025-07-17T11:29:09.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "e6462ea"
+        },
+        "rprt_Perfomed_SHGM.bas": {
+          "FileHash": "371d9d5",
+          "OtherHash": "cd9ea87",
+          "ExportDate": "2025-07-17T11:29:13.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "cbebc8c"
+        },
+        "rprt_Perfomed_SHGM_Cover.bas": {
+          "FileHash": "3ee2c14",
+          "OtherHash": "2a48444",
+          "ExportDate": "2025-07-17T11:29:12.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "65e2dca"
+        },
+        "rprt_Perfomed_UKCAA.bas": {
+          "FileHash": "44e8bfa",
+          "OtherHash": "cd9ea87",
+          "ExportDate": "2025-07-17T11:29:13.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "c728d52"
+        },
+        "rprt_Perfomed_UKCAA_Cover.bas": {
+          "FileHash": "81606e9",
+          "OtherHash": "2a48444",
+          "ExportDate": "2025-07-17T11:29:10.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "e7435a6"
+        },
+        "rprt_Perfomed_UKCAAsil.bas": {
+          "FileHash": "b5e2ae7",
+          "OtherHash": "1969b72",
+          "ExportDate": "2025-07-17T11:29:13.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "bd6f6ef"
+        },
+        "rprt_SHGM_Rules_List.bas": {
+          "FileHash": "9341255",
+          "OtherHash": "dba5166",
+          "ExportDate": "2025-07-17T11:29:07.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "f11c4f6"
+        },
+        "rprt_UKCAA_Rules_List.bas": {
+          "FileHash": "90996b6",
+          "OtherHash": "dba5166",
+          "ExportDate": "2025-07-17T11:29:09.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "9920721"
+        },
+        "rpt_ChecklistDetails.bas": {
+          "FileHash": "7ab407b",
+          "ExportDate": "2025-07-17T11:29:06.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "945b38d"
+        }
+      },
+      "Shared Images": {
+        "Command374.json": {
+          "FileHash": "fd571d3",
+          "OtherHash": "ff9ab3b",
+          "ExportDate": "2025-07-17T11:28:26.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "ecea3ae"
+        }
+      },
+      "Tables": {
+        "Audits.json": {
+          "FileHash": "936bd92",
+          "ExportDate": "2025-07-17T11:28:27.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "effbee0"
+        },
+        "tbl_Applicability.json": {
+          "FileHash": "70017ca",
+          "ExportDate": "2025-07-17T11:28:27.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "601221e"
+        },
+        "tbl_Audit_Standards.json": {
+          "FileHash": "837c2f7",
+          "ExportDate": "2025-07-17T11:28:27.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "cd8500f"
+        },
+        "tbl_AuditEntries.json": {
+          "FileHash": "59fdaf1",
+          "ExportDate": "2025-07-17T11:28:28.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "744156e"
+        },
+        "tbl_Auditors.json": {
+          "FileHash": "8d6175d",
+          "ExportDate": "2025-07-17T11:28:28.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "675f84b"
+        },
+        "tbl_AuditReports.json": {
+          "FileHash": "ddc2d1d",
+          "ExportDate": "2025-07-17T11:28:28.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "b3c5515"
+        },
+        "tbl_CAAC.json": {
+          "FileHash": "00b45e0",
+          "ExportDate": "2025-07-17T11:28:28.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "f21a4f0"
+        },
+        "tbl_Checklists.json": {
+          "FileHash": "201f0a9",
+          "ExportDate": "2025-07-17T11:28:29.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d59555f"
+        },
+        "tbl_CompletedRules.json": {
+          "FileHash": "e6d9900",
+          "ExportDate": "2025-07-17T11:28:29.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "577dc05"
+        },
+        "tbl_EASA.json": {
+          "FileHash": "35c713a",
+          "ExportDate": "2025-07-17T11:28:29.000Z",
+          "SourceModified": "2025-04-15T12:12:05.000Z",
+          "FilePropertiesHash": "5828482"
+        },
+        "tbl_FAA.json": {
+          "FileHash": "d04aaaa",
+          "ExportDate": "2025-07-17T11:28:29.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "5195c25"
+        },
+        "tbl_finding.json": {
+          "FileHash": "a36d24d",
+          "ExportDate": "2025-07-17T11:28:30.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "984aa4d"
+        },
+        "tbl_Group.json": {
+          "FileHash": "e31e9c7",
+          "ExportDate": "2025-07-17T11:28:30.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "65659e4"
+        },
+        "tbl_OMAN.json": {
+          "FileHash": "714dd2c",
+          "ExportDate": "2025-07-17T11:28:30.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "7afd35c"
+        },
+        "tbl_OTAR.json": {
+          "FileHash": "35b9d28",
+          "ExportDate": "2025-07-17T11:28:30.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "7afd35c"
+        },
+        "tbl_Party.json": {
+          "FileHash": "128c946",
+          "ExportDate": "2025-07-17T11:28:31.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "3a3bd76"
+        },
+        "tbl_Process.json": {
+          "FileHash": "298bc11",
+          "ExportDate": "2025-07-17T11:28:31.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d6be1e8"
+        },
+        "tbl_Regulations.json": {
+          "FileHash": "dcf369b",
+          "ExportDate": "2025-07-17T11:28:31.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "3db5f8f"
+        },
+        "tbl_SHGM.json": {
+          "FileHash": "fdc35e1",
+          "ExportDate": "2025-07-17T11:28:31.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d380570"
+        },
+        "tbl_type_of_activity.json": {
+          "FileHash": "70a8c56",
+          "ExportDate": "2025-07-17T11:28:32.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "73ccfe9"
+        },
+        "tbl_UKCAA.json": {
+          "FileHash": "d3e84de",
+          "ExportDate": "2025-07-17T11:28:32.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "d170628"
+        },
+        "tbl_UserRoles.json": {
+          "FileHash": "d45ab7a",
+          "ExportDate": "2025-07-17T11:28:32.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "08c7ee3"
+        },
+        "tbl_Users.json": {
+          "FileHash": "cddca95",
+          "ExportDate": "2025-07-17T11:28:33.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "6d2062b"
+        }
+      },
+      "Themes": {
+        "1_Office Theme.thmx": {
+          "FileHash": "5c56bff",
+          "OtherHash": "245ebb2",
+          "ExportDate": "2025-07-17T11:28:26.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "0372de4"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "FileHash": "0447d83",
+          "ExportDate": "2025-07-17T11:28:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "9f885a8"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "FileHash": "690f0c0",
+          "ExportDate": "2025-07-17T11:28:23.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "2bbad38"
+        }
+      }
+    }
+  }
+}

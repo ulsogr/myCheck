@@ -1,0 +1,28 @@
+﻿SELECT
+  DISTINCT tbl_AuditReports.AuditReportID,
+  tbl_AuditReports.Audit_Report_Number,
+  tbl_AuditReports.Audit_Report_Date,
+  tbl_AuditReports.Audit_Reason,
+  tbl_AuditReports.Auditor_Asist,
+  tbl_AuditReports.Auditor_Lead,
+  tbl_AuditReports.Audit_Checklists,
+  tbl_AuditReports.Audit_Applicability,
+  tbl_AuditReports.Type_of_Activity,
+  tbl_AuditReports.Location,
+  tbl_AuditReports.Remarks,
+  tbl_AuditReports.Graph_Type_of_Activity,
+  tbl_AuditReports.Meda_Required,
+  tbl_AuditReports.Type_of_class,
+  tbl_AuditReports.Record_year,
+  tbl_AuditReports.Status,
+  tbl_AuditReports.Start_Date,
+  tbl_AuditReports.End_Date,
+  tbl_AuditReports.Scheduled,
+  tbl_AuditReports.Group,
+  tbl_AuditReports.Description,
+  tbl_AuditReports.[myTECHNIC Report Reference],
+  tbl_AuditReports.Plan_Revision_No,
+  tbl_AuditReports.Plan_Revision_Date,
+  tbl_AuditReports.Audit_Checklists.Value
+FROM
+  tbl_AuditReports;

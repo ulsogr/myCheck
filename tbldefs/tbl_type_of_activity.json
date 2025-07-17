@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "tbl_type_of_activity",
+    "Connect": "MS Access;PWD=Password;DATABASE=rel:MyCheck__be.accdb",
+    "SourceTableName": "tbl_type_of_activity",
+    "Attributes": 1073741824,
+    "PrimaryKey": "[ID]"
+  }
+}

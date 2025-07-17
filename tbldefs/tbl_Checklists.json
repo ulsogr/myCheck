@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "tbl_Checklists",
+    "Connect": "MS Access;PWD=Password;DATABASE=rel:MyCheck__be.accdb",
+    "SourceTableName": "tbl_Checklists",
+    "Attributes": 1073741824,
+    "PrimaryKey": "[[CL-100_No]]"
+  }
+}

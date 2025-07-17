@@ -1,0 +1,25 @@
+﻿dbMemo "SQL" ="SELECT DISTINCT tbl_AuditReports.AuditReportID, tbl_AuditReports.Audit_Report_Nu"
+    "mber, tbl_AuditReports.Audit_Report_Date, tbl_AuditReports.Audit_Reason, tbl_Aud"
+    "itReports.Auditor_Asist, tbl_AuditReports.Auditor_Lead, tbl_AuditReports.Audit_C"
+    "hecklists, tbl_AuditReports.Audit_Applicability, tbl_AuditReports.Type_of_Activi"
+    "ty, tbl_AuditReports.Location, tbl_AuditReports.Remarks, tbl_AuditReports.Graph_"
+    "Type_of_Activity, tbl_AuditReports.Meda_Required, tbl_AuditReports.Type_of_class"
+    ", tbl_AuditReports.Record_year, tbl_AuditReports.Status, tbl_AuditReports.Start_"
+    "Date, tbl_AuditReports.End_Date, tbl_AuditReports.Scheduled, tbl_AuditReports.Gr"
+    "oup, tbl_AuditReports.Description, tbl_AuditReports.[myTECHNIC Report Reference]"
+    ", tbl_AuditReports.Plan_Revision_No, tbl_AuditReports.Plan_Revision_Date, tbl_Au"
+    "ditReports.Audit_Checklists.Value\015\012FROM tbl_AuditReports;\015\012"
+dbMemo "Connect" =""
+dbBoolean "ReturnsRecords" ="-1"
+dbInteger "ODBCTimeout" ="0"
+dbBoolean "OrderByOn" ="0"
+dbByte "Orientation" ="0"
+dbByte "DefaultView" ="2"
+dbBoolean "FilterOnLoad" ="0"
+dbBoolean "OrderByOnLoad" ="-1"
+Begin
+    Begin
+        dbText "Name" ="tbl_AuditReports.AuditReportID"
+        dbLong "AggregateType" ="-1"
+    End
+End
